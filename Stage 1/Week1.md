@@ -16,3 +16,5 @@ Alur Kerja DeveOps
 -	Deploy
 -	Operate
 -	Monitor
+
+Pada DevOps terdaapat proses Continuous Integration (CI) adalah proses code merging and unit testing, yang akan memeriksa code sebelum di deploy ke server,  sedangkan Continuous Deployment (CD) adalah deployment perubahan code ke server sesuai dengan kebutuhan (Staging / Production).
