@@ -7,4 +7,12 @@ Manfaat DevOps :
 •	Dapat berjalan secara otomatis dalam system
 •	Mengurangi resiko kerusakan aplikasi sebelum di rilis ke public
 
-
+Alur Kerja DeveOps
+-	Plan
+-	Code
+-	Build
+-	Test
+-	Release
+-	Deploy
+-	Operate
+-	Monitor
