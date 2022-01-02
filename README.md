@@ -1,2 +1,2 @@
 # Dumbways.id
-[Stage 01](Week1)
+[Stage 1](Week1)
