@@ -6,3 +6,5 @@ Manfaat DevOps :
 •	Memiliki waktu untuk terus berinovasi 
 •	Dapat berjalan secara otomatis dalam system
 •	Mengurangi resiko kerusakan aplikasi sebelum di rilis ke public
+
+
