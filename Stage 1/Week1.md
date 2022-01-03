@@ -64,6 +64,7 @@ Sedangkan jaringan terdapat dua jenis, yaitu :
 
 Studi Kasus Topologi Tree pada sebuah perusahan
 ![dsf](https://user-images.githubusercontent.com/96972678/147873121-5205050d-3cce-4255-b349-15bb1bb9a96d.PNG)
+
 Pada gambar topologi diatas merupakan jenis topologi tree. Pada gambar diatas terdapat 2 buah jaringan berbeda yang terhubung menggunakan router. Dapat kita lihat terdapat dua divisi yaitu modang dan lae. Masing-masing divisi terdapat beberapa komputer yang terhubung ke switch hingga ke router. Setiap divisi juga memiliki jaringan telepon tersendiri. Dapat kita lihat router menjadi pusat dari jaringan setiap divisi karena menggunakan jenis topologi tree.
 
 Topologi Jaringan rancangan untuk Menyusun sebuah jaringan agar perangkat satu dengan yang lain saling terhubung. Topologi jaringan sendiri terdiri beberapa jenis, diantaranya :
