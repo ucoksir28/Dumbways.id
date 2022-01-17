@@ -1,2 +1,2 @@
 # Dumbways.id
-[Minggu Pertama](stage1)
+[Minggu Pertama](week-1)
